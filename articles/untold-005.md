@@ -1,0 +1,3 @@
+| 原段 | 核查标注 |
+| --- | --- |
+| Anthropic 如何把发版周期从半年压到一天，为什么新模型到了要先删功能，以及 PM 角色正在发生的剧变。 | ⚠ 段落中的“发版周期从半年压到一天”在候选信源中缺少直接依据：Anthropic 官方只说模型能力/成本/速度权衡目标是“每几个月”改进，Release Notes 显示平台更新很频繁，但不能等同于整体发版周期一天一次；“新模型到了要先删功能”在给定 full_markdown 中也未被明确表述为必然流程。因此属于把模糊的快速迭代叙事强化成具体周期与强规则。[来源](https://www.lennyspodcast.com/) [来源](https://www.anthropic.com/news/claude-3-5-sonnet) [来源](https://docs.anthropic.com/en/release-notes/overview) |
