@@ -1,3 +1,16 @@
+---
+slug: untold-001
+model: human-baseline
+published_at: 2026-04-28
+kicker: 批判 · 微信公众号
+claimant: J0hn · 微信公众号
+upstream_subject: 吴恩达 The Batch Issue 349 + Lenny 播客 Kat Wu 那期（间接）
+verdict_summary: >-
+  「8:1 工程师/PM 比例」是精度膨胀（吴恩达原数据为 4:1~10:1）；与 Kat Wu 内容呈循环引用结构，被包装成"两个独立信源汇聚"的统计假象。
+findings_count: 5
+source_count: 4
+---
+
 # 公众号文章批判：吴恩达「最快的团队，人人都是产品经理」
 
 ## 1. 基本信息
