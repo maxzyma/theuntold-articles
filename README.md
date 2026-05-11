@@ -31,7 +31,7 @@ theuntold 的 Web 应用源码目前**私有**——所以这个 articles 仓库
 
 > `model` 字段标注每篇文章的产出主体：`human-baseline` = 站长手写；`openai-codex` 等 = 对应 LLM 模型产出。读者可凭此判断信息来源链路；站点不在文章卡片上做"作者亲笔 vs AI"标签，避免主张分级。
 
-> **历史注**：早期发布的 `untold-003` / `untold-004` 是 LLM 对相同上游素材的二次产出，与 001/002 标题完全重复——保留两份对读者构成噪声而非信号，已在 2026-05-11 撤下。完整 diff 仍可通过 git history（commit `<待提交>` 之前的版本）取回，作为 LLM-vs-Human 风格研究的离线参考样本。
+> **历史注**：早期发布的 `untold-003` / `untold-004` 是 LLM 对相同上游素材的二次产出，与 001/002 标题完全重复——保留两份对读者构成噪声而非信号，已在 2026-05-11 撤下。完整 diff 仍可通过 git history（commit [`70b9dae`](https://github.com/maxzyma/theuntold-articles/commit/70b9dae) 之前的版本）取回，作为 LLM-vs-Human 风格研究的离线参考样本。
 
 ---
 
