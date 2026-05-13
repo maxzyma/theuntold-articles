@@ -4,6 +4,7 @@ model: human-baseline
 published_at: 2026-04-25
 kicker: 批判 · 微信公众号
 claimant: J0hn · 微信公众号
+claimant_slug: j0hn
 upstream_subject: Lenny 播客访 Kat Wu（Anthropic 产品负责人）
 verdict_summary: >-
   源码两次泄露的真因（Bun runtime bug + 缺 pre-publish CI + npmignore 配错）被压缩为「人为失误」；OpenClaw 事件的时间线政治（创始人 2-14 加入 OpenAI、Boris Cherny 是实际发言人）被完全省略。
