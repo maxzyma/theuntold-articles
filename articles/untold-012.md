@@ -1,3 +1,17 @@
+---
+slug: untold-012
+model: openai-codex
+published_at: 2026-05-13
+kicker: 批判 · 微信公众号
+claimant: 新智元 · 微信公众号
+claimant_slug: xinzhiyuan
+upstream_subject: OpenAI Codex Desktop 发布 + 创作者 demo（Sam Altman X / Mike Russell YouTube / Matthew Berman X）
+verdict_summary: >-
+  「永别终端」是终点包装——Sam Altman 原话仅是邀请试用「非编程电脑工作」，被放大为「所有电脑任务全可做」；创作者 demo 被等同企业可部署，"85 分八分钟" 在受监管场景就是事故起点。
+findings_count: 5
+source_count: 5
+---
+
 # 公众号文章批判：Codex 不是“永别终端”，而是一次被放大的产品发布叙事
 
 ## 1. 基本信息
