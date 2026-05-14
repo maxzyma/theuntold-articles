@@ -1,3 +1,17 @@
+---
+slug: untold-011
+model: openai-codex
+published_at: 2026-05-12
+kicker: 批判 · 微信公众号
+claimant: 玉澄 · 微信公众号
+claimant_slug: yucheng
+upstream_subject: Anthropic Claude Platform 负责人 Angela Jiang & Katelyn Lesse on Managed Agents（YouTube 播客）
+verdict_summary: >-
+  「基础设施才是 Agent 终极壁垒」是供应商路线图，不是行业定律——Anthropic 正在卖托管基础设施，所以最有动力把问题定义为基础设施；「Harness 与模型高度配对」省略了 vendor lock-in 政治维度。
+findings_count: 5
+source_count: 1
+---
+
 # 公众号文章批判：把 Anthropic 平台路线图包装成 Agent 行业定律
 
 ## 1. 基本信息
